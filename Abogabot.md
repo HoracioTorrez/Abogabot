@@ -45,7 +45,7 @@ La Aplicación requiere interfaz para un **Usuario** y un **Administrador**.
 ![Pantalla formulario de pago wireframe](https://user-images.githubusercontent.com/114202415/197088863-0e9c13e3-6382-41f2-a66f-6213958611d8.jpg)
 ![Pantalla de confirmación wireframe](https://user-images.githubusercontent.com/114202415/197088859-ca277450-be33-4c00-be67-a7d6ae08722d.jpg)
 
- # Diseño UI *( User Interface)*
+ # Diseño "UI" *( User Interface)*
 
  El UI es la vista que permite a un usuario interactuar con un sistema. En otras palabras, se refiere a las acciones que permiten a un usuario interactuar de manera efectiva con nuestra *Aplicación Web*.
  
