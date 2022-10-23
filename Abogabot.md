@@ -48,12 +48,13 @@ La Aplicación requiere interfaz para un **Usuario** y un **Administrador**.
  # Diseño "UI" *( User Interface)*
 
  El UI es la vista que permite a un usuario interactuar con un sistema. En otras palabras, se refiere a las acciones que permiten a un usuario interactuar de manera efectiva con nuestra *Aplicación Web*.
- 
-![Pantalla de Inicio](https://user-images.githubusercontent.com/114202415/197089182-74d4ab1a-f271-4f60-90fc-457d66620150.jpg)
-![Pantalla Menú](https://user-images.githubusercontent.com/114202415/197089175-a088b045-6a3b-45f6-bea7-e2efcaf8fc15.jpg)
-![Pantalla formulario de demanda](https://user-images.githubusercontent.com/114202415/197089184-010668a5-5019-492b-a62a-522995a3837e.jpg)
-![Pantalla Formulario de Pago](https://user-images.githubusercontent.com/114202415/197089170-ef17c24d-6210-4000-ab6e-a22d257ab495.jpg)
-![Pantalla de confirmación](https://user-images.githubusercontent.com/114202415/197089179-de205505-6b50-48a2-bf80-0b1070b1c6d1.jpg)
+   
+![Pantalla de Inicio de Sesion](https://user-images.githubusercontent.com/114202415/197424571-23ee4780-f37c-41f2-9aa7-2190da02da14.jpg)
+![Pantalla Menú](https://user-images.githubusercontent.com/114202415/197424574-08eef0e5-33ba-493a-8bbf-57b3b58153d0.jpg)
+![Pantalla Formulario de Demanda](https://user-images.githubusercontent.com/114202415/197424572-3f1ad8ea-0e4f-4d65-943e-4274379f6018.jpg)
+![Pantalla Formulario de Pago](https://user-images.githubusercontent.com/114202415/197424573-a6686bf3-5ddf-4aa1-bed0-656c20acc440.jpg)
+![Pantalla de confirmación](https://user-images.githubusercontent.com/114202415/197424576-3ee67935-4064-4d6e-9b72-73e658b2709c.jpg)
+
 
 
 
