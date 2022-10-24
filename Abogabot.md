@@ -49,7 +49,7 @@ La Aplicación requiere interfaz para un **Usuario** y un **Administrador**.
 
  El UI es la vista que permite a un usuario interactuar con un sistema. En otras palabras, se refiere a las acciones que permiten a un usuario interactuar de manera efectiva con nuestra *Aplicación Web*.
 
-![Pantalla de Inicio de Sesión](https://user-images.githubusercontent.com/114202415/197424878-f974114e-0afe-45ce-a43f-89d227bb4ee5.png)
+![Pantalla de Inicio](https://user-images.githubusercontent.com/114202415/197425061-d57e1082-495f-4af8-9b7c-feaa602b4490.jpg)
 ![Pantalla Menú](https://user-images.githubusercontent.com/114202415/197424574-08eef0e5-33ba-493a-8bbf-57b3b58153d0.jpg)
 ![Pantalla Formulario de Demanda](https://user-images.githubusercontent.com/114202415/197424572-3f1ad8ea-0e4f-4d65-943e-4274379f6018.jpg)
 ![Pantalla Formulario de Pago](https://user-images.githubusercontent.com/114202415/197424573-a6686bf3-5ddf-4aa1-bed0-656c20acc440.jpg)
